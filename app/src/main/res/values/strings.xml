@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DOAPI9</string>
+    <string name="enable_do_instruction">Enable DO \n adb shell \n dpm set-device-owner org.example.doapi9/.DeviceOwnerReceiver</string>
+    <string name="set_date_time">set Date Time</string>
+    <string name="set_timezone">set Time Zone</string>
+    <string name="input_method">Input method</string>
+    <string name="screen_off_timeout">Screen off timeout</string>
+    <string name="location_mode">Location mode</string>
+    <string name="adb">ADB</string>
+    <string name="change_auto_date_time">Change auto date/time</string>
+    <string name="change_auto_time_zone">Change auto time zone</string>
+    <string name="change_date_time">Change date time</string>
+    <string name="change_time_zone">Change time zone</string>
+    <string name="open_do_fragment">Open DO Fragment</string>
+</resources>
